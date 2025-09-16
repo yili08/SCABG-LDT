@@ -33,20 +33,10 @@
 
 ### Installation:
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-repo/multimodal-sentiment-analysis.git
-    cd multimodal-sentiment-analysis
-    ```
-
-2. Install dependencies:
+1. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-
-3. Download necessary pretrained models:
-    - **CLIP**: `openai/clip-vit-base-patch32`
-    - **NLI model**: `roberta-large-mnli`
 
 ### Usage:
 
